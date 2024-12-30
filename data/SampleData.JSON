@@ -1,0 +1,126 @@
+[
+    {
+      "title": "Framework to Choose the Right LLM for your Business",
+      "description": "This course will guide you through the process of selecting the most suitable Large Language Model (LLM) for various business needs. By examining factors such as accuracy, cost, scalability, and integration, you will understand how different LLMs perform in specific scenarios, from customer support to healthcare and strategy development. The course emphasizes practical decision-making with real-world case studies, helping businesses navigate the rapidly evolving LLM landscape effectively.",
+      "course_curriculum": [
+        "Introduction",
+        "It's an LLM World!",
+        "Understand Your Business",
+        "Framework to Choose the Right LLM",
+        "Case Studies",
+        "Conclusion"
+      ]
+    },
+    {
+      "title": "Improving Real World RAG Systems: Key Challenges & Practical Solutions",
+      "description": "This course explores the key challenges in building real-world Retrieval-Augmented Generation (RAG) systems and provides practical solutions. Topics include improving data retrieval, dealing with hallucinations, context selection, and optimizing system performance using advanced prompting, retrieval strategies, and evaluation techniques. Through hands-on demos, you will gain insights into better chunking, embedding models, and agentic RAG systems for more robust, real-world applications.",
+      "course_curriculum": [
+        "Introduction to RAG Systems",
+        "Resources",
+        "RAG System Challenges Practical Solutions",
+        "Hands-on: Solution for Missing Content in RAG",
+        "Other Key Challenges",
+        "Practical Solutions",
+        "Hands-on: Solution for Missed Top Ranked, Not in Context, Not Extracted _ Incorrect Specificity",
+        "Hands-on- Solution for Missed",
+        "Wrong Format Problem Solution",
+        "Hands-on: Solution for Wrong Format",
+        "Incomplete Problem Solution",
+        "HyDE",
+        "Other Practical Solutions from Recent Research Papers"
+      ]
+    },
+    {
+      "title": "A Comprehensive Learning Path to Become a Data Analyst in 2025",
+      "description": "Where do I begin? Data Analyst is such a huge field - where do you even start learning about Data Analyst? These are career-defining questions often asked by data analyst aspirants. There are a million resources out there to refer but the learning journey can be quite exhausting if you don’t know where to start. Don’t worry, we are here to help you take your first steps into the world of data analytics! Here’s the learning path for people who want to become a data analyst in 2025. We have arranged and compiled all the best resources in a structured manner so that you have a unified resource to become a successful data analyst. Moreover, we have added the most in-demand skills for the year 2025 for data analysts along with exercises and assignments.",
+      "course_curriculum": [
+        "Overview of the Learning Path 2025",
+        "Step 1: Data Analyst Toolkit",
+        "Step 2: Data Visualization",
+        "Step 3: Data Exploration",
+        "Step 4: Advanced Data Analysis and Foundation of Machine Learning"
+      ]
+    },
+    {
+      "title": "Reimagining GenAI: Common Mistakes and Best Practices for Success",
+      "description": "Generative AI is transforming industries, but implementation challenges often hinder its success. This course, led by experienced GenAI expert Shabazz Mohammed, dives deep into the pitfalls of adopting generative AI and provides actionable best practices to overcome them. Learn from real-world scenarios, understand why hi-fi demos fail in production, and gain insights into scalable, ethical, and ROI-driven AI adoption.",
+      "course_curriculum": [
+        "Common Mistake and Best Practices",
+        "Introduction",
+        "State of GenAI in 2024",
+        "Common Mistakes",
+        "Best Practices for Success",
+        "Demo: GenAI Chatbot Alignment",
+        "Case Study: Top US Bank Co-pilot on CLO Documents"
+      ]
+    },
+    {
+      "title": "Coding a ChatGPT-style Language Model from Scratch in PyTorch",
+      "description": "Master the art of building a ChatGPT-style language model from scratch with PyTorch. In this course, you'll explore essential NLP concepts, implement transformers, and create a decoder-only architecture step-by-step. Guided by expert tutorials, gain practical skills to develop advanced AI models tailored for real-world applications.",
+      "course_curriculum": [
+        "Coding a ChatGPT",
+        "Introduction",
+        "Importing",
+        "Creating Inputs & Labels",
+        "Position Encoding",
+        "Masked Self-Attention",
+        "Putting Pieces Together",
+        "Creating Decoder Only Transformer"
+      ]
+    },
+    {
+      "title": "Mastering Multilingual GenAI Open-Weights for Indic Languages",
+      "description": "Mastering Multilingual GenAI – Open-Weights for Indic Languages is a course designed to equip you with the knowledge to develop state-of-the-art multilingual AI models using open-weight architectures. Focusing on low-resource languages, particularly Indic languages, the course covers essential topics like multilingual AI training, instruction fine-tuning, model building, and performance evaluation.",
+      "course_curriculum": [
+        "Mastering Multilingual GenAI",
+        "Introduction",
+        "Importance of Multilingual",
+        "Training for Multilingual GenAI",
+        "Instruction Fine-Tuning Data for Multilingual",
+        "Measuring Performance for Multilingual",
+        "Building a Model",
+        "Human Preferences",
+        "Curse of Multilinguality",
+        "Coding Hands-On"
+      ]
+    },
+    {
+      "title": "Learning Autonomous Driving Behaviors with LLMs & RL",
+      "description": "This course dives into the development of autonomous driving behaviors using Reinforcement Learning (RL) and Large Language Models (LLMs). You’ll explore how RL agents are trained to navigate complex, real-world environments while making safe, human-like driving decisions. The course tackles key challenges such as designing effective reward systems, ensuring safety in high-speed driving scenarios, and improving the interpretability of AI decisions. Through practical projects, you will design RL agents using techniques like Deep Q-Networks (DQN), experience replay, and integrate LLMs to enhance decision-making.",
+      "course_curriculum": [
+        "Learning Autonomous Driving Behaviors with LLMs & RL",
+        "Introduction",
+        "Evolution RL",
+        "Understanding RL",
+        "Challenges with RL",
+        "Approach to the Problem Statement",
+        "Hands-On: Learning Autonomous Driving Behaviors with LLMs & RL"
+      ]
+    },
+    {
+      "title": "GenAI Applied to Quantitative Finance: For Control Implementation",
+      "description": "This course explores the application of Generative AI in quantitative finance, focusing on building sustainable trading algorithms through keyword extraction, sentiment analysis, and time-series forecasting. Learn to predict commodity prices, such as gold, by integrating data from financial news sources, leveraging sentiment analysis, and optimizing models for robust trading signals.",
+      "course_curriculum": [
+        "Gen AI Applied to Quantitative Finance",
+        "Introduction",
+        "Overview",
+        "Problem Definition: Commodity Price Prediction",
+        "Architecture",
+        "Hands-On"
+      ]
+    },
+    {
+      "title": "Navigating LLM Tradeoffs: Techniques for Speed, Cost, Scale & Accuracy",
+      "description": "This course provides a concise guide to optimizing Large Language Models (LLMs) by navigating tradeoffs in speed, cost, scale, and accuracy. Learn practical techniques like LoRA, model quantization, and parameter-efficient fine-tuning to improve performance while reducing costs. You'll explore various deployment strategies and understand how to evaluate LLMs using industry-standard benchmarks, making this course ideal for anyone seeking efficient, scalable AI solutions.",
+      "course_curriculum": [
+        "Navigating LLM Tradeoffs",
+        "Introduction",
+        "Resources",
+        "Technique to Increase Accuracy",
+        "Training Speed and Cost Optimization",
+        "Inference Speed and Cost Optimization",
+        "Scale"
+      ]
+    }
+  ]
+  
